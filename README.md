@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Myriam Le Nahelec
-- I'm living in Nantes but I'm open to any opportunity in France 
+- 📍I'm living in Nantes but I'm open to any opportunity in France 
 - 👀 I’m interested in software development. 
 - 🌱 I’m currently learning at ADA Tech School. I'm learning  different languages like Javascript, Typescript, PHP, Kotlin, Go, Java
 - 😄 Pronouns: she/her
