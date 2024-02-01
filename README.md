@@ -1,4 +1,14 @@
-- 👋 Hi, I’m Myriam Le Nahelec
+### 🇫🇷 Qui suis-je ? 
+-  👋🏾 Salut ! Je suis Myriam Le Nahelec
+- 📍 Je vis à Nantes et je suis ouverte à toute opportunité sur le reste de la France 
+- 👀 Je suis passionnée par le développement de logiciel 
+- 🌱 Je suis actuellement apprenante à Ada tech school. J'apprends différents languages comme : Javascript, Typescript, PHP, Kotlin, Go, Java
+- 😄 Pronoms: elle
+- ⚡ Fun fact: J'ai vécu en Chine 🇨🇳 pendant presque 3 ans et j'y ai développé une obsession pour les  xiao long bao 🥟
+- 🤸🏾‍♀️ Mes loisirs : roller 🛼 , crochet 🧶  et d'autres activités manuels et créatives
+
+### 🇬🇧 Who am i ? 
+- 👋🏾 Hi ! I’m Myriam Le Nahelec
 - 📍I'm living in Nantes but I'm open to any opportunity in France 
 - 👀 I’m interested in software development. 
 - 🌱 I’m currently learning at ADA Tech School. I'm learning  different languages like Javascript, Typescript, PHP, Kotlin, Go, Java
