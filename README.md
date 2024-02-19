@@ -1,7 +1,7 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&pause=1000&color=000000&background=FFFFFF00&vCenter=true&random=false&width=435&lines=Hey!+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&pause=1000&color=000000&background=FFFFFF00&vCenter=true&random=false&width=435&lines=Hey!+)](https://git.io/typing-svg)
 
 
-### Qui suis-je ? 
+## Qui suis-je ? 
 -  👋🏾  Je suis Myriam Le Nahelec
 -  🪡 J'ai travaillé pendant 8 ans dans la production textile et je suis actuellement en reconversion
 - 📍 Je vis à Nantes et je suis ouverte à toute opportunité sur le reste de la France 
@@ -13,7 +13,7 @@
 - ⚡ Fun fact: J'ai vécu en Chine 🇨🇳 pendant presque 3 ans et j'y ai développé une obsession pour les  xiao long bao 🥟
 - 🤸🏾‍♀️ Durant mon temps libre : je suis bénévole dans des associations, j'aime écouter de la musique🎧, j'apprends à faire du roller 🛼 , je fais du crochet 🧶
 
-  **Mes stacks :**
+ ## Mes stacks 
   
   ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -38,7 +38,3 @@ You can click the Preview link to take a look at your changes.
 
 
 
-
-|🎵 Now Playing|
-|:-:|
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=myriam.aln&cover_image=false&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=01f960&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=myriam.aln&redirect=true)
