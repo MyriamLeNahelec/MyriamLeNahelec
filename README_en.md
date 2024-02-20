@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I lived in China 🇨🇳 for almost 3 years and I'm obsessed with xiao long bao 🥟
 - 🤸🏾‍♀️ My hobbies : listen to music🎧, rollerblade 🛼 and crochet 🧶
 
-**Mes stacks :**
+**My stacks :**
   
   ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -32,8 +32,3 @@
 MyriamLeNahelec/MyriamLeNahelec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-
-|🎵 Now Playing|
-|:-:|
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=myriam.aln&cover_image=false&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=01f960&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=myriam.aln&redirect=true)
